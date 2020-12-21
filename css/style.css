@@ -1,0 +1,24 @@
+.bg-primary{
+  background-color: #f50057 ;
+}
+.my-icon
+{
+   font-size: 80px!important;
+}
+.icon-color{
+      color: #f50057;
+}
+.services-container{
+   border: .5px solid #f50057;
+   padding: 20px;
+   cursor: pointer;
+   transition: 200ms all ease-in-out; 
+}
+.services-container:hover{
+     background: black;
+     color: white;
+     border-radius: 20px;
+}
+.bg-white{
+background: white;
+}
